@@ -17,4 +17,4 @@ The columns of the dataset are described below:
 - **_input_hash. _taskhash, is_binary,  _timestamp, _annotator_id, _session_id**: Additional columns automatically created by the annotation tool during the annotation process. For detailed documentation see the [prodigy docs](https://prodi.gy/docs/api-components).
 - **Number_randomized**: The ground truth (i.e. how many patients were randomized)
 
-The dataset has also been uploaded to [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.g1jwstr0b)
+The dataset has also been uploaded to [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.g1jwstr0b).
