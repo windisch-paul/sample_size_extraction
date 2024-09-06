@@ -13,7 +13,7 @@ The columns of the dataset are described below:
 - **text**: The text that was displayed to the annotator (i.e., the abstract)
 - **tokens**: The list of tokens that the "text" column was parsed into. Each token has a text, a start, an end, an id, and a boolean ws property that indicates if a token is follows by whitespace or not.
 - **spans**: The spans created by the annotator. Each span has a start, and end, a text, a source (if the span had been suggested by a model in the loop), an input_hash, a token_start, a token_end, and a label.
-- answer: Contains "accept" if an annotator annotated the publication.
+- **answer**: Contains "accept" if an annotator annotated the publication.
 - **_input_hash. _taskhash, is_binary,  _timestamp, _annotator_id, _session_id**: Additional columns automatically created by the annotation tool during the annotation process. For detailed documentation see the [prodigy docs](https://prodi.gy/docs/api-components).
 - **Number_randomized**: The ground truth (i.e. how many patients were randomized)
 
