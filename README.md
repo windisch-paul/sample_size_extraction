@@ -1,5 +1,5 @@
 # Introduction
-This repository contains the data and code associated with the manuscript [__Extracting the Sample Size From Randomized Controlled Trials in Explainable Fashion Using Natural Language Processing__](https://www.medrxiv.org/content/10.1101/2024.07.09.24310155v1) which is currently available as a preprint while undergoing peer review.
+This repository contains the data and code associated with the manuscript [Extracting the Sample Size From Randomized Controlled Trials in Explainable Fashion Using Natural Language Processing](https://www.medrxiv.org/content/10.1101/2024.07.09.24310155v1) which is currently available as a preprint while undergoing peer review.
 The config file can be used to train a model using the spacy/prodigy packages. 
 
 # Data
@@ -17,4 +17,4 @@ The columns of the dataset are described below:
 - **_input_hash. _taskhash, is_binary,  _timestamp, _annotator_id, _session_id**: Additional columns automatically created by the annotation tool during the annotation process. For detailed documentation see the [prodigy docs](https://prodi.gy/docs/api-components).
 - **Number_randomized**: The ground truth (i.e. how many patients were randomized)
 
-The dataset has also been uploaded to [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.g1jwstr0b).
+The dataset has also been uploaded to [Dryad](https://doi.org/10.5061/dryad.g1jwstr0b).
