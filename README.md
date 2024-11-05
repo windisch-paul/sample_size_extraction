@@ -1,5 +1,5 @@
 # Introduction
-This repository contains the data and code associated with the manuscript [Extracting the Sample Size From Randomized Controlled Trials in Explainable Fashion Using Natural Language Processing](https://www.medrxiv.org/content/10.1101/2024.07.09.24310155v1) which is currently available as a preprint while undergoing peer review.
+This repository contains the data and code associated with the manuscript [Extracting the Sample Size From Randomized Controlled Trials in Explainable Fashion Using Natural Language Processing]([https://www.medrxiv.org/content/10.1101/2024.07.09.24310155v1](https://academic.oup.com/jamiaopen/article/7/4/ooae116/7842832)) published in JAMIA Open.
 The config file can be used to train a model using the spacy/prodigy packages. 
 
 # Data
